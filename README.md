@@ -58,7 +58,7 @@ Each case includes:
 ---
 
 ## 👩‍💻 Author
-*Annagladys*
+*Anngladys Gichuhi*
 PLP Academy – AI for Software Engineering
 
 *Amany Nabil*  
